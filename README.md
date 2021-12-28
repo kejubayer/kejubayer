@@ -36,13 +36,25 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
-      src="icons/php.png" alt="android" height="40" /></a> 
+      src="icons/php.png" alt="php" height="40" /></a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img
-      src="icons/laravel.png" alt="android" height="40" /></a> 
+      src="icons/laravel.png" alt="laravel" height="40" /></a>
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"><img
+      src="icons/livewire.png" alt="livewire" height="40" /></a> 
+<a href="https://lumen.laravel.com/" target="_blank" rel="noreferrer"><img
+      src="icons/lumen.jpeg" alt="lumen" height="40" /></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+      src="icons/mysql.png" alt="mysql" height="40" /></a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img
+      src="icons/js.webp" alt="javascript" height="40" /></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
+      src="icons/linux.png" alt="linux" height="40" /></a> 
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img
+      src="icons/ubuntu.svg" alt="ubuntu" height="40" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
+      src="icons/linux-server.jpg" alt="linux-server" height="40" /></a> 
 </p>
-
 <br>
-
 <h3 align="center">Statistical Data :-</h3>
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kejubayer&show_icons=true&locale=en&layout=compact"
