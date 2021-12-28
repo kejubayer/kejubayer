@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khondoker Eftakhar Jubayer</h1>
-<h3 align="center">A web developer from Bangladesh🌟</h3>
+<h3 align="center">A web developer from Bangladesh 🇧🇩</h3>
 <p align="center">Full Stuck Web Application Developer at <a href="https://hrventureai.com/">HR Venture</a></p>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kejubayer&label=Profile%20views&color=0e75b6&style=flat" alt="kejubayer" /></p>
 <p align="center">
