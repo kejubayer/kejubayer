@@ -57,11 +57,11 @@
 <br>
 <h3 align="center">Statistical Data :-</h3>
 <p align="center"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kejubayer&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kejubayer&show_icons=true&locale=en&layout=compact&theme=react"
     alt="kejubayer" /></p>
 <br>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kejubayer&count_private=true&show_icons=true&locale=en"
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kejubayer&count_private=true&show_icons=true&locale=en&theme=react"
     alt="kejubayer" /></p>
 <br>
 
