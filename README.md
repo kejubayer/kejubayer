@@ -65,7 +65,7 @@
     alt="kejubayer" /></p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kejubayer&theme=dark" alt="kejubayer" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kejubayer&theme=react" alt="kejubayer" /></p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Khondoker Eftakhar Jubayer](https://kejubayer.com)
