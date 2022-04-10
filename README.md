@@ -67,5 +67,15 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kejubayer&theme=react" alt="kejubayer" /></p>
 
+<!-- ./STATS -->
+<div>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=kejubayer&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kejubayer}/count.svg" /></p>
+<br></div>
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Khondoker Eftakhar Jubayer](https://kejubayer.com)
